@@ -15,9 +15,9 @@ function Todo(props) {
     function deleteHandler() {
         // console.log('clicked');
         // console.log(props.text)
-        //TODO 1 模态叠加层
+        // 1 模态叠加层
         //但是为了小而可维护，这里在components组件目录下新增一个Modal.js文件
-        //TODO 2灰色背景，防止用户点击其他地方
+        // 2灰色背景，防止用户点击其他地方
         //新建一个背景组件
         setModalIsOpen(true)
     }
