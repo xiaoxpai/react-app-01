@@ -8,7 +8,8 @@
 - 注意事项：
   - props传递的参数，包括函数作为参数，要么百分百自定义配置，要么使用内置函数，否则props会接收不到参数，出现报错异常
 
-
+# 演示
+![preview.gif](document%2Fpreview.gif)
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
